@@ -95,4 +95,4 @@ This `Makefile` provides targets for compiling, running, and cleaning up a C pro
 
 ### Notes
 
-- Ensure `$(CC)` (compiler), `$(CFLAGS)` (compiler flags), `$(OBJS)` (object files), and `$(TARGET)` (target executable) are defined either within the `Makefile` or as environment variables for this `Makefile` to run correctly.
+- Ensure `$(CC)` (compiler), `$(CFLAGS)` (compiler flags), `$(OBJS)` (object files), and `$(TARGET)` (target executable) are defined either within the `Makefile` or as environment variables for this `Makefile` to run correctly.# assignment-1-huypham12313-main
